@@ -1,12 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bitter&display=swap');
 .welcome-card img {
   max-height: 35vh;
   overflow: hidden;
 }
 
 .title{
-
+  font-family: 'Bitter', serif;
 }
 
 .itemlist{
-
+  font-family: 'Quicksand', sans-serif;
 }
