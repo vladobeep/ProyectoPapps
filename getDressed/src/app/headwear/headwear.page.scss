@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Bitter&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bitter:400,700&display=swap');
 .title{
     font-family: 'Bitter', serif;
   }
@@ -8,5 +8,7 @@
     font-size: 30px;
     text-align: center;
 }
-
-  
+.otitle{//titulo del producto
+  font-family: 'Bitter', serif;
+  font-size: 20px;
+}
