@@ -4,6 +4,8 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { Tab2Page } from './tab2.page';
+import { choiceH } from 'headwear';
+
 
 @NgModule({
   imports: [
@@ -14,4 +16,9 @@ import { Tab2Page } from './tab2.page';
   ],
   declarations: [Tab2Page]
 })
-export class Tab2PageModule {}
+ var choiceH= 0;
+ var choiceT= 0;
+ var choiceP= 0;
+ var choiceS= 0;
+ 
+ export class Tab2PageModule {}
